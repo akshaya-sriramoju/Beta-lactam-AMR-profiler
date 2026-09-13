@@ -54,11 +54,11 @@ These reference sequences are used by the profiler for sequence comparison and b
 
 Limitations include:
 
-a. The reference database contains only 8 selected beta-lactamase determinants.
-b. The alignment approach is intended for prototype screening and is not a replacement for validated AMR detection pipelines.
-c. Detection of an AMR-associated genetic determinant does not establish phenotypic or clinical antibiotic resistance.
-d. The current identity and coverage thresholds have not been clinically validated.
-e. The tool does not provide antibiotic treatment recommendations.
+a.) The reference database contains only 8 selected beta-lactamase determinants.
+b.) The alignment approach is intended for prototype screening and is not a replacement for validated AMR detection pipelines.
+c.) Detection of an AMR-associated genetic determinant does not establish phenotypic or clinical antibiotic resistance.
+d.) The current identity and coverage thresholds have not been clinically validated.
+e.) The tool does not provide antibiotic treatment recommendations.
 
 
 
