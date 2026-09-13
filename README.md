@@ -30,14 +30,14 @@ Reference Database
 
 The current beta-lactamase reference database contains 8 gene determinants:
 
-blaCTX-M — CTX-M family
-blaIMP — IMP family
-blaKPC — KPC family
-blaNDM — NDM family
-blaOXA-48 — OXA-48 family
-blaSHV — SHV family
-blaTEM — TEM family
-blaVIM — VIM family
+- blaCTX-M — CTX-M family
+- blaIMP — IMP family
+- blaKPC — KPC family
+- blaNDM — NDM family
+- blaOXA-48 — OXA-48 family
+- blaSHV — SHV family
+- blaTEM — TEM family
+- blaVIM — VIM family
 
 These reference sequences are used by the profiler for sequence comparison and beta-lactamase determinant identification.
 
